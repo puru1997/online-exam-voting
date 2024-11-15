@@ -1,4 +1,4 @@
-# Example Voting App
+# Online Exam Voting
 
 A simple distributed application running across multiple Docker containers.
 
